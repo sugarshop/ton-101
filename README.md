@@ -1,6 +1,7 @@
 # ton-101
 guideline about how to dive in ton blockchain
 
+TON Documents
 - FunC https://docs.ton.org/develop/func/overview
 - TON tech documents https://docs.google.com/document/d/1aJtWRSI1PL1NtTEnViJUVTR1raTZwG_zrOPIcv9UMPc/edit
 - TON BlockChain data browser https://tonscan.org/
@@ -12,3 +13,6 @@ guideline about how to dive in ton blockchain
 TON Ads
 - official https://ads.telegram.org/
 - thirdparty https://telega.io/catalog
+
+TON News
+- https://mp.weixin.qq.com/s/xJFUWfcJlGxVlkTNeA9bzw
